@@ -1,0 +1,7 @@
+Breaker face bitmap font, derived from Inter (SIL OFL 1.1).
+Source: assets/Inter.woff2
+SHA256: fb865a5087637ba194b14aef6f0558214f3c4b3ec939e3c0812c66de41036a47
+Specs: ((10, 'SemiBold'), (11, 'Bold'), (13, 'Bold'), (24, 'ExtraBold'), (28, 'ExtraBold'), (16, 'SemiBold'), (24, 'SemiBold'), (40, 'ExtraBold'))
+Optical corrections: s/r at sizes 10/11/13, shared lowercase baseline/x-height; see SMALL_GLYPHS.
+Baseline corrections: r at 16 SemiBold, 24 SemiBold/ExtraBold, 28 ExtraBold shifted down one pixel; see BASELINE_SHIFT.
+Generated locally, no downloads. See breaker/FONT-LICENSE.txt.

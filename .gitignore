@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+scratch/
+runs/
+provision/build/
+HIL-*.jsonl
+HIL-*.json
+panel-verified.json
+examples/RENDER-PROVENANCE.md
